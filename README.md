@@ -22,7 +22,13 @@ Since we are all here on GitHub, our primary goal is to polish up our *coding* s
 
 
 
-Here are some of my thoughs. First, we can organize this repository into three main sections---first, the sharing section; second, the discussion section; third, private sections. By sharing resources such as booklists, websites and ebooks, we can get access to more valuable information and learn from others' experience.  Second, the discussion is a place where we can discuss our course lectures, tutorial and lab problems. Third, the private section is a temporary place where we keep our code snippets for later reviews. By organizing folders this way, hopefully we can have an efficient way to get what we want and help each other.
+Here are some of my thoughs. We can organize this repository into three main sections
+
+- **Sharing** section;
+- **Discussion** section
+- **Private** sections. 
+
+By sharing resources such as booklists, websites and ebooks, we can get access to more valuable information and learn from others' experience.  Second, the discussion is a place where we can discuss our course lectures, tutorial and lab problems. Third, the private section is a temporary place where we keep our code snippets for later reviews. By organizing folders this way, hopefully we can have an efficient way to get what we want and help each other.
 
 
 
